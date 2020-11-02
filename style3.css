@@ -1,0 +1,10 @@
+.container{
+  background-color:rgb(10,10,10);
+  display:flex;
+  justify-content:center;
+  align-content:space-around;
+ }
+.flex-items{
+  color:white;
+ // align-item:space-around;
+}
